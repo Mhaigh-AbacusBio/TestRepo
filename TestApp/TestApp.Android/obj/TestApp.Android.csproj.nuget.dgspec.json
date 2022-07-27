@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MHaigh.ABACUSBIOLTD\\Source\\Repos\\TestRepo\\TestApp\\TestApp.Android\\TestApp.Android.csproj": {}
+    "C:\\Users\\MHaigh.ABACUSBIOLTD\\source\\repos\\TestRepo\\TestApp\\TestApp.Android\\TestApp.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MHaigh.ABACUSBIOLTD\\Source\\Repos\\TestRepo\\TestApp\\TestApp.Android\\TestApp.Android.csproj": {
+    "C:\\Users\\MHaigh.ABACUSBIOLTD\\source\\repos\\TestRepo\\TestApp\\TestApp.Android\\TestApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MHaigh.ABACUSBIOLTD\\Source\\Repos\\TestRepo\\TestApp\\TestApp.Android\\TestApp.Android.csproj",
+        "projectUniqueName": "C:\\Users\\MHaigh.ABACUSBIOLTD\\source\\repos\\TestRepo\\TestApp\\TestApp.Android\\TestApp.Android.csproj",
         "projectName": "TestApp.Android",
-        "projectPath": "C:\\Users\\MHaigh.ABACUSBIOLTD\\Source\\Repos\\TestRepo\\TestApp\\TestApp.Android\\TestApp.Android.csproj",
+        "projectPath": "C:\\Users\\MHaigh.ABACUSBIOLTD\\source\\repos\\TestRepo\\TestApp\\TestApp.Android\\TestApp.Android.csproj",
         "packagesPath": "C:\\Users\\MHaigh.ABACUSBIOLTD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MHaigh.ABACUSBIOLTD\\Source\\Repos\\TestRepo\\TestApp\\TestApp.Android\\obj\\",
+        "outputPath": "C:\\Users\\MHaigh.ABACUSBIOLTD\\source\\repos\\TestRepo\\TestApp\\TestApp.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "C:\\Users\\MHaigh.ABACUSBIOLTD\\Source\\Repos\\TestRepo\\TestApp\\TestApp\\TestApp.csproj": {
-                "projectPath": "C:\\Users\\MHaigh.ABACUSBIOLTD\\Source\\Repos\\TestRepo\\TestApp\\TestApp\\TestApp.csproj"
+              "C:\\Users\\MHaigh.ABACUSBIOLTD\\source\\repos\\TestRepo\\TestApp\\TestApp\\TestApp.csproj": {
+                "projectPath": "C:\\Users\\MHaigh.ABACUSBIOLTD\\source\\repos\\TestRepo\\TestApp\\TestApp\\TestApp.csproj"
               }
             }
           }
@@ -54,12 +54,12 @@
         }
       }
     },
-    "C:\\Users\\MHaigh.ABACUSBIOLTD\\Source\\Repos\\TestRepo\\TestApp\\TestApp\\TestApp.csproj": {
+    "C:\\Users\\MHaigh.ABACUSBIOLTD\\source\\repos\\TestRepo\\TestApp\\TestApp\\TestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MHaigh.ABACUSBIOLTD\\Source\\Repos\\TestRepo\\TestApp\\TestApp\\TestApp.csproj",
+        "projectUniqueName": "C:\\Users\\MHaigh.ABACUSBIOLTD\\source\\repos\\TestRepo\\TestApp\\TestApp\\TestApp.csproj",
         "projectName": "TestApp",
-        "projectPath": "C:\\Users\\MHaigh.ABACUSBIOLTD\\Source\\Repos\\TestRepo\\TestApp\\TestApp\\TestApp.csproj",
+        "projectPath": "C:\\Users\\MHaigh.ABACUSBIOLTD\\source\\repos\\TestRepo\\TestApp\\TestApp\\TestApp.csproj",
         "packagesPath": "C:\\Users\\MHaigh.ABACUSBIOLTD\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\MHaigh.ABACUSBIOLTD\\Source\\Repos\\TestRepo\\TestApp\\TestApp\\obj\\",
         "projectStyle": "PackageReference",
